@@ -1,0 +1,9 @@
+[submodule "autohaus"]
+	path = autohaus
+	url = https://github.com/GlennStreetman/autohaus.git
+[submodule "autoStrapi"]
+	path = autoStrapi
+	url = https://github.com/GlennStreetman/autoStrapi.git
+[submodule "autoNginx"]
+	path = autoNginx
+	url = https://github.com/GlennStreetman/autoNginx.git
